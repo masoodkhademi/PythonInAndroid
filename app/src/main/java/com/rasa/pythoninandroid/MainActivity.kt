@@ -1,4 +1,4 @@
-package com.example.pythoninandroid
+package com.rasa.pythoninandroid
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

@@ -1,4 +1,4 @@
-package com.example.pythoninandroid
+package com.rasa.pythoninandroid
 
 import org.junit.Test
 
